@@ -1,4 +1,3 @@
-Login Register
-=============
+This will be a resource that enables Congress targeting based on user-entered lists.
 
-These files acompany the tutorial: [Login and Registration system with PHP](http://daveismyname.com/login-and-registration-system-with-php-bp)
+It's a bit of a mess right now; once it's more set up, I'll add thorough documentation.
